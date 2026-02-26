@@ -80,6 +80,13 @@
               </div>
           </div>
 
+          <div class="form-group">
+                <label>Age</label>
+                <input type="text" name="address" class="form-control" required />
+              </div>
+          </div>
+
+
           <div class="modal-footer">
             <button type="button" class="btn btn-secondary" data-dismiss="modal"><i class='fas fa-times-circle'></i> Cancel</button>
             <button type="submit" class="btn btn-primary"><i class="fa fa-save"></i> Save</button>
